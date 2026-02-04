@@ -13,8 +13,8 @@ import (
 	"github.com/shirou/gopsutil/cpu"
 	"github.com/shirou/gopsutil/process"
 
-	"github.com/luxfi/log"
 	"github.com/luxfi/filesystem/storage"
+	log "github.com/luxfi/log"
 )
 
 var (
