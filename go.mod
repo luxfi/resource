@@ -1,6 +1,6 @@
 module github.com/luxfi/resource
 
-go 1.26
+go 1.26.1
 
 require (
 	github.com/luxfi/filesystem v0.0.1
