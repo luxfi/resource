@@ -1,4 +1,4 @@
-# LLM.md - Hanzo Resource
+# Hanzo Resource
 
 ## Overview
 Go module: github.com/luxfi/resource
