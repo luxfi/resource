@@ -5,7 +5,7 @@ go 1.26.4
 require (
 	github.com/luxfi/filesystem v0.0.1
 	github.com/luxfi/log v1.4.1
-	github.com/luxfi/metric v1.5.0
+	github.com/luxfi/metric v1.8.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/stretchr/testify v1.11.1
 	go.uber.org/mock v0.6.0
@@ -16,6 +16,7 @@ require (
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/gorilla/rpc v1.2.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
+	github.com/luxfi/geth v1.20.1
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
